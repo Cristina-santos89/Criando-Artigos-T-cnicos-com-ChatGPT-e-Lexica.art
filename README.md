@@ -6,6 +6,9 @@ Projeto com o objetivo de gerar um artigo com as facilidades das ferramentas de 
 
 <a href="https://web.dio.me/articles/como-a-inteligencia-artificial-esta-transformando-a-tomada-de-decisoes-e-a-forma-como-consumimos?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler</a>
 
+<a href="https://github.com/user-attachments/files/15688443/Imagens.Artigo.pdf" title="View PDF now"> 📕Clique aqui para visualizar as imagens</a>
+
+
 ## Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
